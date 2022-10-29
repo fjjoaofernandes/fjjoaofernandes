@@ -8,5 +8,6 @@ both has my heart. I also would like to start learning a third language, being I
 organizational behavior (seems kinda boring - and it is - but it's really important to not be limited to hard skills only) and software engineering
 concepts (such as UML diagrams, object oriented programming and coding best practices).
 
-- 💞️ I’m looking to collaborate on open-source projects that catch my attention and creating useful and readable repositories.
+- I’m looking to collaborate on open-source projects that catch my attention and creating useful and readable repositories.
+
 - 📫 You can reach me at: andrade.joao@ufms.br (hopefully, soon i will be on LinkedIn)
