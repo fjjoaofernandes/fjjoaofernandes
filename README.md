@@ -9,4 +9,4 @@ organizational behavior (seems kinda boring - and it is - but it's really import
 concepts (such as UML diagrams, object oriented programming and coding best practices).
 
 - 💞️ I’m looking to collaborate on open-source projects that catch my attention and creating useful and readable repositories.
-- 📫 You can reach at: andrade.joao@ufms.br (hopefully, soon i will be on LinkedIn)
+- 📫 You can reach me at: andrade.joao@ufms.br (hopefully, soon i will be on LinkedIn)
