@@ -1,5 +1,4 @@
-- Hi, I’m João Fernandes, a brazilian studying Information System at UFMS (Federal University of Mato Grosso do Sul, in english)
-I'm also a member of the Artificial Intelligence Laboratory of the university - which makes me improve in calculus topics and programming as well -
+- Hi, I’m João Fernandes, a brazilian studying Information System at UFMS (Federal University of Mato Grosso do Sul, in english). I'm also a member of the Artificial Intelligence Laboratory of the university - which makes me improve in calculus topics and programming as well -
 and a member of the robotics team of the university, being that a key factor to improve my hardware and electrical circuits knowledge.
 
 - I’m interested in techie things in general, but artificial intelligence (in robotics) and machine learning (in research and very cool projects)
